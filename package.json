@@ -1,0 +1,22 @@
+{
+  "name": "usa-flag",
+  "version": "1.0.0",
+  "description": "Print the flag of the United States of America to the console!",
+  "main": "./src/index.js",
+  "bin": {
+    "usa-flag": "./src/cli.js"
+  },
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spirometaxas/usa-flag.git"
+  },
+  "scripts": {
+    "cli": "node ./src/cli.js"
+  },
+  "author": "Spiro Metaxas",
+  "license": "MIT",
+  "keywords": [ "USA", "United States", "United States of America", "America", "usa-flag", "flags", "world flags", "Old Glory", "console", "unicode" ]
+}
