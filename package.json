@@ -1,6 +1,6 @@
 {
   "name": "usa-flag",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Print the flag of the United States of America to the console!",
   "main": "./src/index.js",
   "bin": {
@@ -18,5 +18,19 @@
   },
   "author": "Spiro Metaxas",
   "license": "MIT",
-  "keywords": [ "USA", "United States", "United States of America", "America", "usa-flag", "flags", "world flags", "Old Glory", "console", "unicode" ]
+  "keywords": [ 
+    "USA", 
+    "United States", 
+    "United States of America", 
+    "America", 
+    "usa-flag", 
+    "flags", 
+    "world flags", 
+    "Old Glory", 
+    "cli",
+    "console",
+    "terminal",
+    "shell",
+    "unicode" 
+  ]
 }
