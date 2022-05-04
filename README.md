@@ -1,6 +1,8 @@
 # usa-flag
 Print the flag of the United States of America to the console using unicode box characters and ANSI-256 colors!
 
+![What usa-flag prints to the console](https://raw.githubusercontent.com/spirometaxas/usa-flag/main/img/usa-flag-1.png)
+
 Minimum dimensions: 39 rows X 150 columns (ratio: 10:19)
 
 ## Usage
